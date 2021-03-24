@@ -1,0 +1,7 @@
+{
+  "username": "root",
+  "password": "cxz666",
+  "host": "127.0.0.1",
+  "port": 3306,
+  "dbname": "backend"
+}
